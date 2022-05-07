@@ -1,8 +1,5 @@
 # primer-repo
 ##  linea  1
-
-2.hola
-3. hola
-4.  hola.
-5.  hola.
-6.  
+1. First item
+2. Second item
+3. Third item
